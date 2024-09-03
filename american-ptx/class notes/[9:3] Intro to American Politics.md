@@ -116,3 +116,9 @@
   - System of two sovereigns $\rightarrow$ states vs federal government, limit the power of each!
     - Evolution of federalism has involved a loss of state power and increase in federal power
       - The New Deal (Roosevelt) of 1930s: shifted balance of powers and introduced a more formal version of federalism as a response to the Great Depression
+
+
+
+
+
+<REVIEW SLIDES FOR REST>
