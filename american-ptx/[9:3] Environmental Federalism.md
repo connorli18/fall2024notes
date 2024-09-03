@@ -69,6 +69,10 @@
 
 - Trump has not advocated for any major legislation related to the environment and not signaled for any "to come"
 
+  - XO 13771: Identify 2 regulations to repeal for every regulation proposed + regulatory budget (new regulations = 0 cost)
+  - XO 13777: "regulatory reform task force"
+  - Environmental enforcement also weaker (less civil cases settled + less fines paid)
+
 - 
 
   
