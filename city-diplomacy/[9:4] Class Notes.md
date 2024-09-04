@@ -64,4 +64,61 @@
         - This could be multiple cities, "urbanist corridor" including DC, NYC, etc.
   - Administrative definitions are important, because a lot of people might contribute to taxation stuff, but their home-towns may never receive the taxes from which they work
 
-- 
+- **Intermediary Cities**: Confusion about the way cities are classified in national and global contexts!
+
+  - Definition
+    - <u>UCLG</u>: Cities with a population of between 50,000 and 1 million people that generally play a primary role in connecting important rural and urban areas to basic facilities and services
+  - I-Cities host 20% of the human population, almost 9k I-cities across the world
+  - Use census specific things to find city-population
+
+- **City Networks:** Connections between cities, have grown exponentially in numbers and membership
+
+  - <u>Definition</u>: Formalised organizations whose main membership is local governments
+  - <u>Different Levels</u>: National, regional, global
+  - <u>Scope</u>: Ad-hoc/generalist
+  - 2 Main Goals:
+    - Developing local policies, exchanging best practices or joint pilot projects
+    - Lobbying national governments and international organizations
+  - They have a growing role in global governance, particular in the environmental sector
+  - Examples: UCLG, C40, ICLEI, Eurocities, AIMF, Mayors for Peace, MUFFP, etc.
+
+- **City Diplomacy:** "A set of processes by which cities engage in relations with actors on an international political stage with the aim of representing themselves and their interests"
+
+  - Actions
+    - Bilateral
+    - Multilateral
+  - Impact: Cities are reshaping international relations!
+
+#### Focus on City Diplomacy
+
+- **Tools**
+  - <u>Bilateral</u>: MOU, cooperation agreements, twinning agreements
+    - Twinning agreements: a commitment to work together in the future (no future end-date terms...but they can be renewed!)
+      - You don't really close these twinning agreements, they can just go dormant
+    - Cooperation Agreements + Memorandum of Understanding (less strong agreements) $\rightarrow$ it usually goes in order in terms of severity
+  - <u>Multilateral</u>: International projects, city networks
+    - Time-limited projects are also often linked to external sources of funding
+      - Sponsored by institutions by national agencies for development
+
+- Advocacy campaigns: these are things to do with urban affairs, all natural disasters have harshest impact on urban communities
+- City branding
+  - This could be events like the Olympics marketing stuff related to Paris
+- Regional / global events
+- Oftentimes, cities can be left out of national government initiatives! (Paris initiatives, they want a say because global climate change affects cities most through heat waves)
+
+#### City Branding
+
+- **City Brands**: Symbolic constructs meant to add meaning or value to cities (I am-sterdam)
+  - Example: (I am-sterdam), discontinued because it's too much a city of "individuals"
+  - Example: (C-open-hagen), Open city that's progressive
+- **City Branding:** The process of managing the brand of a city
+  - It's a communication/marketing procedure that wants to highlight a specific side of the city and transform a part of a city!
+- **Goals:** 
+  - Inspire external and internal audiences
+  - Attract investment, talents, and tourism
+  - Help export business
+- City Brand $\neq$ Logo of the municipality 
+  - You cannot copy and paste logos that were successful $\rightarrow$ lots of money spent on really non-impactful work
+
+
+
