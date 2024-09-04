@@ -51,3 +51,17 @@
     - <u>Impact on World Affairs</u>: It must play an active role in world affairs
   - "Highly concentrated command points in the organizaiton of the world economy [...] key locations for finance and for specailized services firms [...] sites of production, including the production of innvations [...] markets for the products and innovations produced"
   - "Strategic hinges of globalization [...] the macro-dynamics of globalization and urganization can, in practice, be anchored to an entity such as the global city, which stands in the very midset of them as both their subject and their engine"
+
+- **Metropolis:** Means a really big city, rooted in "Mother City" from Greek
+
+  - Definitions
+    - <u>UCLG</u>: Agglomerations with a demographic threshold of 1 million inhabitants
+    - <u>OECD</u>: An area outside the core city is part of a metroplitan area if more than 15% of its employed residents commute into the city
+    - Other Terms:
+      - <u>Megacities</u>: 10M+ Inhabitants
+        - This is usually just one city, though!
+      - <u>Meta-Cities</u> / <u>Megaregions</u>: 20M+ Inhabitants
+        - This could be multiple cities, "urbanist corridor" including DC, NYC, etc.
+  - Administrative definitions are important, because a lot of people might contribute to taxation stuff, but their home-towns may never receive the taxes from which they work
+
+- 
