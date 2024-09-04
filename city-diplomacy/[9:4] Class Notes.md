@@ -7,7 +7,9 @@
 - Acquiring understanding of municipalities and their politics/law
 - Midterm Paper (why I should join a city network), Group Presentation (coverage of a city!), Final Written Exam (4 questions, 10 lines per question)
 
-### City Diplomacy
+----
+
+### Introduction to City Diplomacy
 
 #### Definitions
 
@@ -120,5 +122,61 @@
 - City Brand $\neq$ Logo of the municipality 
   - You cannot copy and paste logos that were successful $\rightarrow$ lots of money spent on really non-impactful work
 
+#### Legal Frameworks
 
+- 2 Legal Frameworks: National and International
+  - National: differs from country-to-country
+    - These define what cities can do nationally and internationally $\rightarrow$ they might be limited in what they can do
+  - International: cities do not have legal personality
+    - Cities are seen as subsets of national governments in international law $\rightarrow$ the national government is held responsible for the actions of the city
+      - Example: Cities can't help other cities that are not friends for national government (very complex stuff)
+      - US and France are not very clear in determining the jurisdiction of cities in terms of international partnership 
+- Both legal frameworks are shifting
+  - A more "inclusive, multilateralist" – coined by the UN stuff (big challenges should have cities listening and be "given the floor")
+- International norms are being introduced into local legal systems
 
+#### Other Terms: Synonyms
+
+- Track 2 Diplomacy (Academia) $\rightarrow$ something in between national and city (also a blanket term)
+- Subnational Diplomacy (USA)
+- City and State Diplomacy (USA)
+- Paradiplomacy (Spanish-speaking countries) $\rightarrow$ pretty similar to track-2 diplomacy (more parallel to it but it's not really "diplomacy", also a blanket term)
+- Urban Diplomacy (Germany) $\rightarrow$ this is thematic definition ("urban affairs" are discussed)
+- External action of local authorities (French Government)
+- European and International Action by Local and Regional Authorities (French Local Authorities)
+
+#### Challenges
+
+- How can we link the local to the international?
+- Is it possible to consider cities as coherent entities given their diverse institutional status?
+
+----
+
+### History of City Diplomacy
+
+#### The Delian League
+
+- **Description:** Alliance of Greek city-states led by Athens (first city alliance of its kind)
+- **Duration:** 478-404 BC 
+- **Goal:** Liberate eastern Greek cities from Persian rule; defense to possible recenge attacks from persia
+- **Results:** Peace of Kallias (450 BC); end of piracy; increased inter-city trade; common coinage; centralized taxation; promotion of democracy; judiciary of athens accessible to members' citizens 
+- **Members:** Around 330
+
+#### The Hanseatic League
+
+- **Description:** Commercial and defensive confederation of merchant guilds and market towns in central and northern europe
+- **Duration:** 12th to 17th century
+- **Goal:** From a commercial and defensive alliance of merchant guilds to a pact of cities
+- **Results:** Treaties with states; economic blockades; wars; campaigns against pirates
+- **Member Cities:** Approximately 200
+- **The New Hanseatic League (Die Hanse)**: Founded in 1980 and now includes 194 cities in 16 countries (headquarters: Lübeck)
+
+#### The Peace of Westphalia
+
+- **Description**: A series of peace treaties signed in 1648 in the westphalian cities of Osnabrück and Münster
+- **Duration:** End of the Thirty Years' War (1618-1648) and of the Eight Years' War (1568-1648)
+- **Members:** 109 Delegations
+- **Notes:**
+  - Many scholars of international relations credit the treaties with providing the foundation of modern state system
+  - Diplomacy became the domain of states
+  - Westphalian sovereignty, central to international law, questioned from the mid-20th century onward
