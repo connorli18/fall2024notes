@@ -34,12 +34,20 @@
       - There is uncertainty regarding these positions, governing party could change and you might lose your appointments/jobs
     - <u>Permanent Staff</u>
 
-- **City's Management of International Relations**
+- **City's Management of International Relations **(focused on Milan)
 
   - Key role of the mayor
     - They use their weight to prioritize city diplomacy $\rightarrow$ if it is prioritized, then they will not be diplomats, since it requires support from the person in office!
 
   - IR can be managed by the mayor's cabinet, deputy mayor's cabinet, IR department, (+) some role of the economic development agency (if present)
     - IR can often be part of the cabinet of the mayor (it can be more centralized depending on the priorities of the mayor)
+    - Economic development agency could be a public-private entity (political direction is aligned with other qualities of the city)
 
-  
+- **Global Cities**: Connect it with the rest of the world
+
+  - 3 Main Features: Demography, Domestic Political and Economic Role, Impact on World Affairs
+    - <u>Demography</u>: has to be a big city! Probably >1m citizens
+    - <u>Domestic Political and Economics Role</u>: Creator of economic and political policy
+    - <u>Impact on World Affairs</u>: It must play an active role in world affairs
+  - "Highly concentrated command points in the organizaiton of the world economy [...] key locations for finance and for specailized services firms [...] sites of production, including the production of innvations [...] markets for the products and innovations produced"
+  - "Strategic hinges of globalization [...] the macro-dynamics of globalization and urganization can, in practice, be anchored to an entity such as the global city, which stands in the very midset of them as both their subject and their engine"
