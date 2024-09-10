@@ -117,3 +117,14 @@
   - Block Grants: Federal money that broadly aims to solve policy issues, not specified on how states should exactly spend this money! – much less restrictive
   - General Revenue Sharing: This could be used for any purpose that is not explicitly prohibited
 
+- Grants have been expanded over time and many other federal programs have been added
+  - Health, income security, education, transportation, community and regional development, natural resources and environment, energy, other!
+  - Medicaid has improved a lot (as a share of federal grants) $\rightarrow$ 
+
+#### Big Picture Evolution
+
+- Progressive era reformers (increased engagement and professionalization of governemnt at all levels)
+- New Deal increased federal government
+- Post WWII liberals also wanted to equality opportunities and reduce risk nationally
+- Conversatives in the 1980s inherited a very active federal government $\rightarrow$ tried to then reduce power of the federal government
+
