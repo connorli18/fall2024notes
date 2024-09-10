@@ -128,3 +128,60 @@
 - Post WWII liberals also wanted to equality opportunities and reduce risk nationally
 - Conversatives in the 1980s inherited a very active federal government $\rightarrow$ tried to then reduce power of the federal government
 
+#### Backlash Against Liberalism & Big Government
+
+- Loss of confidence in government activism in the 1970s (excessive regulation of the environment, workplace, and drifting away from "free market")
+- Rise of populist conservatism: controversies about morality and freedom, protection of traditional values, prayer in schools 
+- Federalism served the purpose to this grrowing conservative opposition $\rightarrow$ Barry Goldwater, Ronald Reagan
+- 1978: Republicans won substantial victories and state governorships
+
+#### Federalism Under Reagan
+
+- "Federal government has taken too much tax money, too much authority, and too much liberty!"
+  - Encouraged centralization of power in several areas (state economics)
+- Reagan support of the states
+  - Advisory committee on federalism
+  - Federal tax cuts
+  - Categorical grants $\rightarrow$ block grants
+  - Food stamps + other social wellfare programs over to the states
+    - Federal grants in aid dropped for first time since WWII
+
+#### States and Federal Government in 1960s
+
+- Federalism used as a strategic weapon to advance party political agenda
+  - More coercion: reducing business regulation, transportation, communication + banking, protect these sectors from bad state rules
+  - More discretion: idk what this said (good luck, read the slides please)
+- Supreme Court rules in favor of the states
+  - Indian gaming regulatory act, violence against women act, american with disability act, age discrimination in employment act, religious freedom restoration act, gun-free school zones act, etc.
+- Resurgence of states in the 1960s
+
+#### George H W Bush (1989-1993)
+
+- Signed new laws that kept expanding federal mandates on state and local governments
+- He tried to do a lot to limit programs, but was blocked by Congress $\rightarrow$ ended up just strengthening the power of the federal government
+  - Several block grants and decentralization plans, but did not have much success
+
+#### Clinton
+
+- New mandates (federal healthcare reform)
+- Used federalism to acheive democratic party objectives 
+  - 70% of grant spending
+  - Executive federalism $\rightarrow$ waivers to grant states to take actions in specific domains if they were willing to do more than the federal government in those domains
+  - Clinton was not good $\rightarrow$ 2 years saw a Republican takeover of Congress which stalled all his efforts
+
+#### George W Bush
+
+- No real commitment to federalism beyond discourse
+- No child left behind 2001 (law for the education federal strength)
+- Help America vote act (new requirements on state elections)
+- Real ID Act of 2005 (new ID requirements)
+- Increased grant spending as much as Clinton
+
+#### Barack Obama
+
+- Obama used federalism to support liberal policies
+  - Waivers for education, Clean Power Plan, Healthcare through Obamacare
+- Increase battles over federalism (Obamacare and CPP) $\rightarrow$ states would sue the federal government
+- FIBB (business something) against Sebelius $\rightarrow$ tried to make the Supreme Court rule against the constitutionality against Obamacare (mostly protected Obamacare, but did scrap one part)!
+  - Legal disputes over federalism and role of the states vs role of the federal government
+
