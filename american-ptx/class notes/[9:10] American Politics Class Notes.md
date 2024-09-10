@@ -85,5 +85,35 @@
     - Other federalism is to bring ethnic and cultural divisions together in different geographical areas, but the US is to bring smaller units of government together
   - The US does not equalize regional resources by redistributing resources to the poorest regions $\rightarrow$ federalism is very elastic and can adjust to geographic, cultural, ethnic changes
 - Promises of Federalism
-  - 
+  - Protects freedoms and rights, guarantees democracy, promotes government efficiency, allows policy innovation (states are the "sites of policy innovation"), fosters prosperity
+  - States have an innovative role that is important in US federalism! (supposed to be good for commerce too)
+- Limits in Practice
+  - States are not great for protecting individual rights (segregation in 1960s in the Southern states)
+  - States will often just preserve economic interests + political agendas, state governments are not always super efficient
+  - Decentralised policy can result in higher transaction costs, powerful minorities can make decisions in policy-making without majority support (political elites and economic elites are influential together)
+
+#### Federal Politics is Politics!
+
+- Political battlefield for all important American conflicts (instrumentalization for broader political priorities) $\rightarrow$ labour, environment, education, gay rights, abortion
+- Republicans (support states), Democrats (support federal government)
+
+#### Distribution of Power
+
+- Constitution grants federal level only those specifically expressed in its text
+- Elastic clause (US Constitution art. 1 section 8): Congress can write laws needed to carry out its expressed powers $\rightarrow$ source of strenght to national government
+- 10th Amendment: powers not granted by Constitution to the federal government are reserved to the states or to the people!
+  - Struggles between federal + state = constitutional struggles
+
+#### Federalism and Development of the USA
+
+- Growth of federal level overtime
+- Adaptation to a constrained environment: federal grant in aid to states to motivate each state to comply with national policy priorities (power of the purse)
+  - Over 500 billion annually on grants-in-aid
+  - 3rd largest item in the budget after Social Security + National Defense
+  - "Extend its influence into states and local affairs"
+- Supreme court allows more federal regulation of the domestic ecnonomy (state grants became a part of the federal government)
+- 3 Types of Grants (how the federal government is able to drive state policies):
+  - Categorical Grants: only used for very specific programs and are accompanied with very strict conditions on how the states should spend this money (very well-defined) 
+  - Block Grants: Federal money that broadly aims to solve policy issues, not specified on how states should exactly spend this money! – much less restrictive
+  - General Revenue Sharing: This could be used for any purpose that is not explicitly prohibited
 
