@@ -55,5 +55,14 @@
 #### Urbanization
 
 - Now, 55% of the population (4B+) lives in Urban Areas today! Back in 1950, only 1/3 of the world population lived in cities (746M) $\rightarrow$ 2/3 of humanity is expected to live in urban areas by 2050
-- Lagos, Nigeria is getting really big!
-- 
+- Lagos, Nigeria is getting really big! (88.3M by 2100)
+- Kinshasa, Democratic Republic of Congo is also exploding! (83.5M by 2100)
+
+#### Migration: Defining Feature of Humankind
+
+- Lots of immigrants (people are migrating to cities)
+- Foreign-born population in major cities is very, very high - lots of transplants
+- Impact of International Migration on Cities
+  - Infrastructure, service, environment
+  - City growth, additional labor
+  - Shifts in urban hierarchies, changes in spatial patterns, diversity, co-development
