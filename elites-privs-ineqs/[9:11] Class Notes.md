@@ -21,7 +21,7 @@
     - Differentiation of political and religious roles: (Westphalian Treaty 1648) - religious leadership and political leadership is different! 
   - Increasing specialization of administrative and political roles: Autonomy of the beauracracy (it's not tied to a family or anything else) $\rightarrow$ the winner will have the power of the federal state
 
-#### Alastair Presentation: Court Society
+#### [Alastair] Court Society
 
 - Court Society: Nobert Elias
 - Purpose of the Research: we should focus on social positions instead of individuals, talked about developing the "royal position" and "royal powers"
@@ -41,3 +41,15 @@
   - Court Society Houses $\rightarrow$ very important to meetings, accomodations, social functions, and were very extravagant to impress people and show "high lifestyle"
 - Role of Servants
   - The servants were very important because they would care for the elites $\rightarrow$ create the same standard of living for the elites and there was a very clear social hierarchy
+- The Good Society
+  - The other upper classes surrounding the Court Society that were not necessarily part of the "court"
+  - Also, there is competition for status (increasing bourgeois wealth is a concern for court nobles) $\rightarrow$ especially because oftentimes the court nobles borrowed lots of money
+
+#### Court Society
+
+- "What are the constraints on the King in Court Society?"
+  - Court put a lot of scrutiny on the King (and had to behave accordingly) $\rightarrow$ his power is contingent on his good behavior/alignment with the society
+- Definition/Basic Notes
+  - Political competition is becoming peaceful? $\rightarrow$ if you aren't in court society, you are against the king! (you live in Versailles if you legitimize the rule of the king)
+  - King can borrow and get money from anyone, you can convince them that you will give back this money! $\rightarrow$ the solution is an Office of Titles, where you can buy position into this new administrative body
+- 
