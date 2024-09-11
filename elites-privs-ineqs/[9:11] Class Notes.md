@@ -52,4 +52,13 @@
 - Definition/Basic Notes
   - Political competition is becoming peaceful? $\rightarrow$ if you aren't in court society, you are against the king! (you live in Versailles if you legitimize the rule of the king)
   - King can borrow and get money from anyone, you can convince them that you will give back this money! $\rightarrow$ the solution is an Office of Titles, where you can buy position into this new administrative body
-- 
+- All power is centered around the king $\rightarrow$ if you are loved by the king and you are invited to his work, then you have power and you can help him!
+- Rank given by noble titles: duke, marquis, count, baron, knight
+  - Your proximity/relation to the king defines the importance of your title both by "money" and by "blood"
+- Express anger/emotions in a "smart way", rules about the expression of violence!
+  - Control + delay revenge, it is a matter of honour!
+  - Duel is an act of violence "allowed" by the protocol $\rightarrow$ you will not provoke a duel with someone lower than you!
+    - You need to recruit a witness to discuss weapons, times, rules, etc.
+  - You can also outsmart them, if you best them in a game of wits/intellect (using your words)
+- Movies: Baron Lyon, Ridicule (about Court Society)
+
