@@ -1,5 +1,9 @@
 # [9/11] Class Notes
 
+---
+
+### Session 1
+
 #### Introduction
 
 - Ternary Society $\rightarrow$ transition into a new model based on a new way to justify priviledge
@@ -62,6 +66,10 @@
   - You can also outsmart them, if you best them in a game of wits/intellect (using your words)
 - Movies: Baron Lyon, Ridicule (about Court Society)
 
+---
+
+### Session 2
+
 #### [Lihi] Mozart
 
 - Mozart: Portrait of a Genius, Robert Elias
@@ -76,6 +84,27 @@
 - Court Society + Mozart $\rightarrow$ case study of how artists in this phase were experiencing their lives as part of the court (musicians were servants to the court?)
   - Mozart knew he was genius but he was trying to break free from the social structure
 
-#### Other Notes
+#### Art and Court Society
 
-1 5 9 6 3 5 7 8 (keypad) python script
+- "Manet" - Pierre Bourdieu (French socioligist) written similar to Mozart about Manet (painting and not music)
+
+$$
+\begin{align*}
+x^{x^{x^{x^{\dots}}}} &= 2\\
+x^2 &= 2\\
+x &= 2
+\end{align*}
+$$
+
+- Learn how to "paint a king" $\rightarrow$ type of art that is co-produced by the state!
+  - You have to represent the King well, and you are trained to paint the king in a different style (but all the royal styles are sort of the same)
+- Manet (and others...), Salon of Rejects $\rightarrow$ they were rejected from the main salon,  so they went and created their own Salon!
+  - "Art pompier" vs "art as pure aesthetic or transgressive practice"
+
+----
+
+### Other Notes
+
+#### Funny Notes (figure out what it means)
+
+1 5 9 6 3 5 7 8 (keypad, Samsung)
