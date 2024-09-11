@@ -105,7 +105,10 @@ $$
   - Choice of character is not historically accurate $\rightarrow$ note related to power or religion
   - Doesn't respect uses of colors (both in choice of colors + method of usage)/size of tables (idk wtf this means)!
 - People thought that Manet was "grotesque" and a violation of traditional art forms
-- 
+- **Conclusion:** We are still living in a system in which protocol is shaping the political life (positions are known by political competitors), displomatic protocols, etc.
+  - Still there a lot of "diplomatic rules" that we have to follow
+  - We can see this today as an extension of the court society $\rightarrow$ there are still long-term byproducts of the civilization process
+  - A big focus on this "civilizing process"
 
 ----
 
@@ -114,3 +117,5 @@ $$
 #### Funny Notes (figure out what it means)
 
 1 5 9 6 3 5 7 8 (keypad, Samsung)
+
+- Cook'n Saj
