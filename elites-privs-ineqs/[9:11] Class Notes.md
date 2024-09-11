@@ -64,5 +64,18 @@
 
 #### [Lihi] Mozart
 
-- 
+- Mozart: Portrait of a Genius, Robert Elias
+- Failed at two of his goals in life (which is what may have been so devastating and accelerated his death):
+  - "Success in Vienna"
+  - "Failing in gaining love from society around him and his wife"
+- Mozart's father wants his son to be part of the court society $\rightarrow$ wants to be a freelancer artists, not a court artist (leave to Vienna from Salzburg)
+  - Dual identity $\rightarrow$ Mozart wanted to be treated as an equal based on music + achievement
+- Mozart started a movement for the democratiziation of society $\rightarrow$ first to start and gain momentum for the freelance artistry things
+- "The Process of Sublimation" (social expectation vs. raw desires and stuff $\rightarrow$ creative fantasties are transformed into something socially acceptable)
+- "Fantasy-streams" $\rightarrow$ impulses of conscience for some level of social acceptability
+- Court Society + Mozart $\rightarrow$ case study of how artists in this phase were experiencing their lives as part of the court (musicians were servants to the court?)
+  - Mozart knew he was genius but he was trying to break free from the social structure
 
+#### Other Notes
+
+1 5 9 6 3 5 7 8 (keypad) python script
