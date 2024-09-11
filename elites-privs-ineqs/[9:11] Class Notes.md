@@ -100,6 +100,12 @@ $$
   - You have to represent the King well, and you are trained to paint the king in a different style (but all the royal styles are sort of the same)
 - Manet (and others...), Salon of Rejects $\rightarrow$ they were rejected from the main salon,  so they went and created their own Salon!
   - "Art pompier" vs "art as pure aesthetic or transgressive practice"
+- Manet "disrespected" a lot of rules of painting at the time
+  - They did not paint stuff with an exact geometric perspective (which was a violation of Renaissance standards)
+  - Choice of character is not historically accurate $\rightarrow$ note related to power or religion
+  - Doesn't respect uses of colors (both in choice of colors + method of usage)/size of tables (idk wtf this means)!
+- People thought that Manet was "grotesque" and a violation of traditional art forms
+- 
 
 ----
 
