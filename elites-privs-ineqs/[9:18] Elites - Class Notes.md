@@ -67,4 +67,4 @@
     - The Response: build a bunch of hospitals, child welfare centres, trained qualified midwives, Accra baby shows (health pagent, healthiest children receive prizes)
       - A more focus on "taking care of your own children" $\rightarrow$ which stopped a phenomena called "the circulation of children"
         - A good mother takes care of your own children, doesn't work outside the house, etc.
-- 
+- European influence in elitism $\rightarrow$ healthcare change didn't happen in the second-level colonization!
