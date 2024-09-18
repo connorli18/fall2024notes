@@ -64,5 +64,7 @@
     - Dr. Nanka-Bruce wrote a letter concerning the "underpopulation" of the Gold Coast Colony, specifically talked about puerperal fever and infantile mortality
       - This led to governor appointing committee to figure out the causes of puerperal fever and infantile mortality
       - The result of this study is "mother inaptitude" $\rightarrow$ they blamed mothers and midwives for their incompetence
-    - The Response: build a bunch of hospitals, child welfare centres, trained qualified midwives
-      - 
+    - The Response: build a bunch of hospitals, child welfare centres, trained qualified midwives, Accra baby shows (health pagent, healthiest children receive prizes)
+      - A more focus on "taking care of your own children" $\rightarrow$ which stopped a phenomena called "the circulation of children"
+        - A good mother takes care of your own children, doesn't work outside the house, etc.
+- 
