@@ -20,4 +20,13 @@
   - Modernity + Colonization is connected $\rightarrow$ a lot of modernization was transformed (new materials, etc.)
   - Europe is impacted by its colonial past $\rightarrow$ colonies gaining their independence is oftentimes associated with "uncivilized behavior"
   - Lack of European perspectives, lack of gender discussion, it is not super accessible to the general public
-- 
+- Pillars of Priviledge
+  - Nationality, Citizenship, etc.
+  - Universality of rights but for a few (colonial and racial borders) 
+    - Colonies don't get the universality of rights, there are still strong divisions between "colonised people" and "citizens"
+    - "Subaltern studies" $\rightarrow$ We can't write history from the archives of the colonizers
+    - Colonial beauracrats want to "civilize" the local population (used to describe farmers) $\rightarrow$ "civilize the poor neighborhoods" 
+    - Algerian Colonization
+      - "Blackfeet" (French colonizers who had to flee from Algeria in independence war) and "Redfeet" (French colonizers who supported Algerian independence)
+  - Gender and Invisibilisation of women's work
+    - 
