@@ -29,4 +29,3 @@
     - Algerian Colonization
       - "Blackfeet" (French colonizers who had to flee from Algeria in independence war) and "Redfeet" (French colonizers who supported Algerian independence)
   - Gender and Invisibilisation of women's work
-    - 
