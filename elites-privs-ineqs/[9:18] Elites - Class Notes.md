@@ -28,4 +28,4 @@
     - Colonial beauracrats want to "civilize" the local population (used to describe farmers) $\rightarrow$ "civilize the poor neighborhoods" 
     - Algerian Colonization
       - "Blackfeet" (French colonizers who had to flee from Algeria in independence war) and "Redfeet" (French colonizers who supported Algerian independence)
-  - Gender and Invisibilisation of women's work
+  - Gender and Invisibilisation of women's work $\rightarrow$ a focus on family (marriage and unity supports capture of women's capital), rhetoric of masculinity with a central role played by sports
