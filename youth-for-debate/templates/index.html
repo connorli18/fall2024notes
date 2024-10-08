@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raffle Spinny Wheel</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Raffle Spinny Wheel</h1>
+        <div class="wheel-container">
+            <canvas id="wheelCanvas" width="500" height="500"></canvas>
+            <div class="marker"></div>
+        </div>
+        <div class="button-container">
+            <button id="spinButton">Spin the Wheel!</button>
+        </div>
+        <h2 id="winner"></h2>
+    </div>
+
+    <script>
+        document.getElementById('spinButton').addEventListener('click', function () {
+            const wheelCanvas = document.getElementById('wheelCanvas');
+            const winnerElement = document.getElementById('winner');
+
+            // Reset wheel rotation and winner text
+            wheelCanvas.style.transition = 'none';
+            wheelCanvas.style.transform = 'rotate(0deg)';
+            winnerElement.textContent = '';
+
+            // Fetch the raffle data and spin the wheel
+            fetch('/raffle')
+                .then(response => response.json())
+                .then(data => {
+                    const studentsList = data.students_list;
+                    const ctx = wheelCanvas.getContext('2d');
+
+                    // Clear the canvas
+                    ctx.clearRect(0, 0, wheelCanvas.width, wheelCanvas.height);
+
+                    // Draw the wheel
+                    const totalTickets = studentsList.length;
+                    const uniqueStudents = [...new Set(studentsList)];
+                    let startAngle = 0;
+                    const segments = [];
+
+                    uniqueStudents.forEach(student => {
+                        const studentTickets = studentsList.filter(s => s === student).length;
+                        const sliceAngle = (studentTickets / totalTickets) * 2 * Math.PI;
+                        segments.push({ student, startAngle, endAngle: startAngle + sliceAngle });
+
+                        // Draw slice
+                        ctx.beginPath();
+                        ctx.moveTo(wheelCanvas.width / 2, wheelCanvas.height / 2);
+                        ctx.arc(wheelCanvas.width / 2, wheelCanvas.height / 2, wheelCanvas.width / 2, startAngle, startAngle + sliceAngle);
+                        ctx.closePath();
+                        ctx.fillStyle = getRandomColor();
+                        ctx.fill();
+
+                        // Draw text
+                        ctx.save();
+                        ctx.translate(wheelCanvas.width / 2, wheelCanvas.height / 2);
+                        ctx.rotate(startAngle + sliceAngle / 2);
+                        ctx.textAlign = "right";
+                        ctx.fillStyle = "white";
+                        ctx.font = "bold 20px Arial";
+                        ctx.fillText(student, wheelCanvas.width / 2 - 10, 10);
+                        ctx.restore();
+
+                        startAngle += sliceAngle;
+                    });
+
+                    // Spin the wheel
+                    const randomDegree = Math.floor(Math.random() * 360) + 360 * 5; // Spin at least 5 times
+                    const randomRadian = (randomDegree % 360) * (Math.PI / 180);
+                    wheelCanvas.style.transition = 'transform 4s ease-out';
+                    wheelCanvas.style.transform = `rotate(${randomDegree}deg)`;
+
+                    // Determine the winner based on the angle π/2
+                    setTimeout(() => {
+                        const finalAngle = (Math.PI / 2 - randomRadian + 2 * Math.PI) % (2 * Math.PI);
+                        const winnerSegment = segments.find(segment => finalAngle >= segment.startAngle && finalAngle < segment.endAngle);
+                        const winner = winnerSegment ? winnerSegment.student : "Unknown";
+                        winnerElement.textContent = `The winner is: ${winner}`;
+                    }, 4000);
+                });
+        });
+
+        function getRandomColor() {
+            const letters = '0123456789ABCDEF';
+            let color = '#';
+            for (let i = 0; i < 6; i++) {
+                color += letters[Math.floor(Math.random() * 16)];
+            }
+            return color;
+        }
+    </script>
+</body>
+
+</html>
