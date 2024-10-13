@@ -1,0 +1,114 @@
+# [Session 2] Notes - American Politics
+
+#### Background
+
+- Declaration of Independent (1776) 
+  - Federal system has 13 states
+  - Government cannot deprive people of "unalienable rights" (L, L, PH)
+  - New Constitution really had a debate about states vs. federal (confederal vs federal)
+- 1787: (no real agreement on states role in federal) 13 states are really autonomous, strong differences and interests (each one also has its own political system including police, military, tariffs, etc.)
+- Federalism
+  - System of two powers (states + nation) where they have competition between them to limit the power of each
+    - Strong states at the beginning, then 19th century saw an increase in federal role (interstate trade + national economy), New Deal in 1930s made federal power $\uparrow$ 
+  - Federalism in Persepctive: US was the first to do it, but other countries copied our shit
+    - Switzerland, Canada, US (ethnic + linguistically divided groups) ~and~ Argentina, India, Mexico, Nigeria, Spain, Brazil
+
+#### Federalism
+
+- Specifics
+  - States + local governments have more power than federal countries
+  - Federalism brings smaller units of government together, US does not equalize regional resources (redistributing financial aid to poorest regions)
+  - Federalism is elastic in the US (ability to adapt to changes like physical size, population, race, ethnicity, culture/economy)
+- Promises of Federalism
+  - Protects freedoms + rights, guarantees democracy, promotes government efficiency, allows policy innovation ("laboratory of Democracy")
+- Limits in practice
+  - Not so good at protecting individual rights
+  - state experiments are biased toward themselves (no policy innovation), state governments are not efficient/they suck at using money, states also have powerful minority groups dominate sometimes and that's bad
+  - Decentralised policy is bad cus of higher transaction costs 
+- Federalism is used as a political weapon for labour, environment, education, abortion, gay rights, etc. (usually liberals = federal power, conservatives = states power)
+- Distribution of power
+  - Constitution only grants federal powers expressed in text
+    - (ELASTIC CLAUSE art. 1 sec. 8), expressed powers can be broadly interpreted and Congress can write laws to carry out these powers (it's supposed to not be a limitation)
+    - 10th amendment - powers not explicitly granted by Constitution are reserved to states/people (big judicial battleground over this)
+  - Supremacy Clause (art 6. sec. 2), National laws + treaties = supreme law of land $\rightarrow$ federal laws are superior to state ones
+- Federalism shaping development of the US
+  - Federalism $\uparrow$ over time, and they've developed new strategies despite their "limited powers" (i.e. using federal grants to states to coerce them into complying...emerged in 1930s)
+    - $500 billion annually on grants-in-aid, 3rd largest item in budget
+    - 3 big types of grants: categorical (specific narrow purposes, very clear definitions on how to spend money), block (flexible stuff, allocation in a general category), general revenue sharing (portion of tax revenue, do wtf u want)
+  - Grants
+    - Nixon created a bunch for natural resources + environment, regional development, and other GR sharing
+    - Health (medicaid) + income security is now dominating!
+- Big picture evolution
+  - New Deal $\rightarrow$ mitigating economic + market shocks
+  - Post-WWII liberals: federal system to expand rights, equalize opportunities
+  - Conservatives in 1980s: federal system to promote market-driven economic growth + traditional social values (inherited a super social wellfare ass gov)
+- 1970s: Backlash to Big government + liberalism
+  - Loss of confidence in government activism in 1970s
+  - Businesses were excessively regulated (wanted free market), populist conservatism is rising (protection of traditional values...abortion, prayer in schools)
+  - Reagan + Barry Goldwater = used federalism to restore a "proper constitutional authority + resources to discern sentiments of people + govern effectively"
+    - Federal tax cuts (eliminted 140 grant programs, 6 billion)
+    - Categorical grants $\rightarrow$ now are block grants  (health, social services, education)
+      - Aid to families with dependent children + food stamps are now a state thing...federal aid is going down!
+- States + other stuff
+  - Federalism is used as strategic weapon, lots of coercion
+    - Reducing business regulation, restricting state ability to regulate transport, communication + banking
+      - Bus regulatory reform act of 1982 (no state regluation of interstate bus transport)
+      - Surface transport act 1982 (states have to accept large, double-bottomed trucks)
+    - Implement specific jobs, welfare + urban development
+      - Safe water drinking act: 2-3 billions annually on public water supply
+      - Asbestos hazard emergency response act 1986: required public school to spend 3 billion to remove asbestos
+- Supreme Court rules in favor of states
+  - Invalidated several federal laws
+    - indian gaming act, violence against women, American with disability act, gun-free school zones, etc.
+  - Network of conservative lawyers + judges with mixed record on federalism $\rightarrow$ supreme court used federalism to undermine federal powers!
+- Resurgence of states in 1990s:
+  - 1960s: states reworked Constitutions to improve government performance (increased governor term to 4 years, expansion of powers + staff, centralizzation of finance + policy, state courts, increased budget)
+  - Reagan era energized more states to solve their own problems!
+    - More policy initiatives, liberal governors took the lead when conservative national gov didn't do anything
+      - Increased their own budgets after 1981 budget cuts, asserted new role in consumer protection, environmental regulation, anti-trust
+      - Increased their own spending to make up for decreased federal aid in those areas
+- George H W Bush (1989-1993)
+  - More federal mandates on state + local governments 
+    - Grants grew from 100 $\rightarrow$ 600 during his presidency
+    - Clean air act, state expanded Medicaid to children in poverty up to 18, American with disability act 1990
+- Clinton (first 2 years):
+  - Used federalism for liberal agenda $\rightarrow$ mandates in Family + Medical leave, Motor voter act, brady hangun act
+    - Federalism to increase 70% grant spending, waivers introduced, states can avoid compliance with federal grant requirement
+    - Waivers used to expand welfare services and Medicaid coverage
+- George W Bush (2001-2008)
+  - No commitment to federalism beyond discource
+    - No child left behind act 2001 (federal education control), Help American Vote Act 2002 (regulating state election procedure), Real ID Act of 2005 (federal standard for IDs), increased grant spending 2x as clinton
+- Barack Obama (2008-2016)
+  - Used federalism to support liberal policies, Obamacare, education waivers (43 states), Clean Power Plan for reducing Carbon emissions
+  - Lots of challenges to his Obamacare + climate stuff, NFID against Sebelius (2012) showed individual mandate to be unconstitutional
+- Environmental Federalism?
+  - Bush supports fossil fuels (Massachusetts vs EPA 2007 - federal government has to protect earth + air)
+  - Obama Clean Power Plan (2015) $\rightarrow$ strict federal regulations to reduce CO2 from power plants, ended up generating more legal activity than any other environmental initiative
+    - 29 states joined lawsuits, 200 members of Congress
+    - 18 states defended plan + other environmental groups + cities
+  - Trump
+    - 3 main changes: (1) Deregulation of EPA and rollback of Obama regulation (2) Little federal regulatory activity (3) Devolution of responsibility to states
+- States + Environmental Policy
+  - States operate 90% of all federal programs + manage new areas such as "environmental effects of fracking"
+  - States have latittude to oversee implementation beyond the federal level even on things like air quality
+  - Grants to fund envrionmental protection have declined since 80s, Trump made that shit fall faster
+- Some states are better than others - 20 states have targets for greenhouse gasses, 29 have requirements for electrical utility, etc.
+
+#### Federal vs States
+
+- Pros of Federal Control:
+  - "Economices of scales" in decision making
+  - Better at interstate spillover
+  - Ensures a level playing field
+- Cons of Federal Control:
+  - Inefficiency + not as good at creating specifically tailored plans for unique situations
+  - No room for policy experimentation + innovation and state adoption of other state initiatives
+- States
+  - States will "race to the bottom" $\rightarrow$ fewest regulatory burdens, but not it might be a "race to the top" $\rightarrow$ best environmental policy stuff
+    - States are often seen as "corrupt" and less likely to implement
+  - "Bottom up reform might work" $\rightarrow$ local movements, networks of states, direct democracy 
+  - State innovation: state electricity will not be fossil fuels (2050) - California, Hawaii, Maine, etc., Colorda does a lot for fracking, etc.
+  - Trump pulls out of Paris $\rightarrow$ 25 states pledge to meet those Paris climate agreement standards
+  - States can use litigation to force the federal government to fight climate change / drop regulation (very partisan)
+  - Uneven state performances (NC, ohio, WV, Wisconsin) $\rightarrow$ promoting economic growth by deregulating to encourage people to come to them!
+    - Texas, Oklahoma, Alaska, ND have opposed regulation because their economies are super dependent on it!
