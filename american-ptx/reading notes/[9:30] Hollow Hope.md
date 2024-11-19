@@ -223,4 +223,3 @@
 
 - Before Congress + Executive branch acted, courts had no direct effect on ending discimination in keys fields (education, voting, transportation, accommodation, housing)
 - Brown is a paradigm, but for the opposite view $\rightarrow$ because they do not produce significant social reform without the other branches!
-

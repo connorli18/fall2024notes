@@ -63,7 +63,7 @@
 - "Committee System" $\rightarrow$ popular from 1947 to 1995, today's system is mostly party leaders, committees were powerful centers of power with their own agendas
   - Lots of standing committees still today!
 - Comittee Makeup
-  - 40 legislators in the House and 20 in the Senate on average
+  - average 40 legislators in the House and 20 in the Senate on average
   - Divided into thematic subcomitttees (4 and 6)
   - Chaired by a senior member of majority party with ranking member (senior member of minority party on committee), ratio of minority to majority reflects Congressional makeup
 - Why committees?

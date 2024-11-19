@@ -53,7 +53,7 @@
 
 - While organizations claim broad constituencies and policy mandates, existing theories suggest low activity on issues affecting intersectionally disadvantaged subgroups.
 - There has been no quantitative, comparative study examining advocacy for marginalized subgroups across groups and issues, making it difficult to assess the problem or explanations for it.
-- To address this, the author conducted the **Survey of National Economic and Social Justice Organizations (SNESJO)** in 2000, surveying 286 national advocacy organizations (40% response rate).
+- To address this, the author conducted the Survey of National Economic and Social Justice Organizations (SNESJO) in 2000, surveying 286 national advocacy organizations (40% response rate).
 - The survey included organizations representing women, racial minorities, and low-income groups, with 62% being membership organizations.
 - The data set contains 712 records (four policy issues per organization), allowing for a systematic analysis of representation for disadvantaged subgroups.
 
@@ -63,7 +63,7 @@
 
 - Policy issues were chosen based on their presence on the federal policy agenda (1990-2000) and categorized into majority, advantaged-subgroup, disadvantaged-subgroup, and universal issues.
 
-- Example: Asian-American organizations were asked about hate crimes (majority issue), affirmative action in government contracting (advantaged-subgroup issue), violence against women (disadvantaged-subgroup issue), and Social Security (universal issue).
+  - Example: Asian-American organizations were asked about hate crimes (majority issue), affirmative action in government contracting (advantaged-subgroup issue), violence against women (disadvantaged-subgroup issue), and Social Security (universal issue).
 
 - These categories are somewhat subjective, as concepts like race, gender, and policy impact are malleable, but responses support the classification of issues.
 

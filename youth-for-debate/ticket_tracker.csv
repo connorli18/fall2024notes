@@ -1,9 +1,11 @@
-student,tickets,26-Sep,3-Oct,10-Oct
-connor,10,10,0,0
-richard,10,10,0,0
-ms mirela,35,10,10,15
-azriel,45,10,10,25
-lekzin,95,10,10,75
-jack,40,10,10,20
-jasmine,30,10,10,10
-Tashi,30,10,10,10
+student,tickets,26-Sep,3-Oct,10-Oct,17-Oct,24-Oct
+connor,10,0,0,0,0,10
+richard,10,0,0,0,0,10
+ms mirela,85,0,0,15,10,60
+azriel,45,10,10,25,0,0
+lekzin,200,10,10,75,60,45
+jack,75,10,10,20,0,35
+jasmine,30,10,10,10,0,0
+Tashi,85,10,10,10,20,35
+Brandon,100,0,10,10,80,0
+Kunga,200,0,0,0,0,200
