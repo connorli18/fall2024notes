@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber final-paper-draft"] 1732553617 "final-paper-draft.bcf" "final-paper-draft.bbl" "final-paper-draft" 1732721887 0
+["biber final-paper-draft"] 1732553617 "final-paper-draft.bcf" "final-paper-draft.bbl" "final-paper-draft" 1732722505 0
   "./references.bib" 1732553520 7026 85becdf0073583a9645606123d988a8a ""
-  "final-paper-draft.bcf" 1732721887 125152 4688b736c1270dfe05f4ff1bb2d533ee "pdflatex"
+  "final-paper-draft.bcf" 1732722505 125152 4688b736c1270dfe05f4ff1bb2d533ee "pdflatex"
   (generated)
   "final-paper-draft.bbl"
   "final-paper-draft.blg"
   (rewritten before read)
-["pdflatex"] 1732721886 "/Users/connorli/Documents/GitHub/fall2024notes/american-ptx/final-paper/final-paper-draft.tex" "final-paper-draft.pdf" "final-paper-draft" 1732721887 0
-  "/Users/connorli/Documents/GitHub/fall2024notes/american-ptx/final-paper/final-paper-draft.tex" 1732721886 46143 b0a0469d83d2aa59e999c0ee2e81836e ""
+["pdflatex"] 1732722504 "/Users/connorli/Documents/GitHub/fall2024notes/american-ptx/final-paper/final-paper-draft.tex" "final-paper-draft.pdf" "final-paper-draft" 1732722505 0
+  "/Users/connorli/Documents/GitHub/fall2024notes/american-ptx/final-paper/final-paper-draft.tex" 1732722504 46482 10a7bb639d3cbc1eebac6b036fb23e0e ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -223,12 +223,12 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1705206871 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1705206848 7883458 f6e9493ae836a2efb38410cc398d6a8b ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "final-paper-draft.aux" 1732721887 4316 b094e8a39d1ea9b7d61d6249edb02741 "pdflatex"
+  "final-paper-draft.aux" 1732722505 4316 b094e8a39d1ea9b7d61d6249edb02741 "pdflatex"
   "final-paper-draft.bbl" 1732553621 466 ee04f40f768daeed26442158e95aba61 "biber final-paper-draft"
-  "final-paper-draft.out" 1732721887 5486 d69d8c89a41c7be619d5bc061bd05f06 "pdflatex"
-  "final-paper-draft.run.xml" 1732721887 2518 84f8116109ac04e6c7063e239595df43 "pdflatex"
-  "final-paper-draft.tex" 1732721886 46143 b0a0469d83d2aa59e999c0ee2e81836e ""
-  "final-paper-draft.toc" 1732721887 2545 d78cdc70cb2af668f0ec89a6aa58dff9 "pdflatex"
+  "final-paper-draft.out" 1732722505 5486 d69d8c89a41c7be619d5bc061bd05f06 "pdflatex"
+  "final-paper-draft.run.xml" 1732722505 2518 84f8116109ac04e6c7063e239595df43 "pdflatex"
+  "final-paper-draft.tex" 1732722504 46482 10a7bb639d3cbc1eebac6b036fb23e0e ""
+  "final-paper-draft.toc" 1732722505 2545 d78cdc70cb2af668f0ec89a6aa58dff9 "pdflatex"
   (generated)
   "final-paper-draft.aux"
   "final-paper-draft.bcf"
